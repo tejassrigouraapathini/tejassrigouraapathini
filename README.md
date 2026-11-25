@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**tejassrigouraapathini/tejassrigouraapathini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Tejassri! 👋
 
-Here are some ideas to get you started:
+### M.S. Artificial Intelligence | University of North Texas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a graduate student pursuing a Master's degree in Artificial Intelligence at the University of North Texas.
+
+My interests include machine learning, data engineering, and developing practical AI applications. I'm also interested in the intersection of technology and management, particularly how technical innovation and effective decision-making contribute to real-world solutions.
+
+### 💻 Technical Skills
+- **Programming Languages:** Python, Java
+- **Database & Query Languages:** SQL
+- **Databases:** MySQL, PostgreSQL
+- **AI & Machine Learning:** Machine Learning, Neural Networks
+- **Professional Interests:** AI Engineering, Technology Management
+
+### 🚀 What I'm Working On
+- Strengthening my problem-solving and programming skills
+- Exploring machine learning and data engineering
+- Building and documenting technical projects
+- Developing my understanding of technology management and leadership
+
+### 🎯 Career Goals
+I'm exploring Summer 2027 internship opportunities in artificial intelligence, machine learning, data engineering, and technology-related management roles.
+
+### 📫 Let's Connect
+LinkedIn: Coming soon!
